@@ -1,6 +1,6 @@
-// Format the values to show Canadian Dollars as currency
+// Format the values to show as the appropriated currency
 const formatValue = (value: number): string =>
-  Intl.NumberFormat('en-US', {
+  Intl.NumberFormat('en-CA', {
     style: 'currency',
     currency: 'CAD',
   }).format(value);
