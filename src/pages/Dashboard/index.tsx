@@ -103,6 +103,7 @@ const Dashboard: React.FC = () => {
                 <tr>
                   <td className="title">{transaction.title}</td>
                   <td className={transaction.type}>
+                    {transaction.type === 'outcome' && '-'}
                     {transaction.formattedValue}
                   </td>
                   <td>{transaction.category.title}</td>
