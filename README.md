@@ -26,8 +26,6 @@ Now, along with the use of TypeScript, routes, and sending files, the applicatio
 
 ## <br/>
 
----
-
 ## 📝 Table of Contents
 
 - [About](#about)
@@ -39,8 +37,6 @@ Now, along with the use of TypeScript, routes, and sending files, the applicatio
 
 ## <br/>
 
----
-
 ## 🧐 Application features <a name = "about"></a>
 
 - **_List the backend's API transactions:_** the Dashboard page should be able to display a listing through a table, with the title, value, type and category field for all transactions that are registered in the API.
@@ -48,14 +44,13 @@ Now, along with the use of TypeScript, routes, and sending files, the applicatio
 - **_Import CSV files:_** the Import page allow users to send a file in csv format to your backend, which will import the transactions into your database.
 
 With this application the user is able to:<br/>
-navigate between two pages using react's single page concept <br/>
-list the total balance inside the cards <br/>
-list the transactions <br/>
-upload a file
+
+1. navigate between two pages using react's single page concept <br/>
+1. list the total balance inside the cards <br/>
+1. list the transactions <br/>
+1. upload a file
 
 ## <br/>
-
----
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -63,8 +58,6 @@ In order to get a copy of this project an run on your local machine for developm
 It is also important to mention that this project requires a running database to get the data, for more information on the backend of this project check this repository: (BACKEND LINK)
 
 ## <br/>
-
----
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -78,8 +71,6 @@ It is also important to mention that this project requires a running database to
 - [Typescript](https://www.typescriptlang.org/) - Programming Language
 
 ## <br/>
-
----
 
 ## 🔁 Dependencies <a name = "dependencies"></a>
 
@@ -96,15 +87,11 @@ Some project library dependencies includes but are not limited to:
 
 ## <br/>
 
----
-
 ## ✍️ Author <a name = "authors"></a>
 
 - [@devfel](https://github.com/devfel) - Luiz Flávio Felizardo
 
 ## <br/>
-
----
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
