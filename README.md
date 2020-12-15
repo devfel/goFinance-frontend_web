@@ -72,7 +72,6 @@ It is also important to mention that this project requires a running database to
 
 Some project library dependencies includes but are not limited to:
 
-- "dependencies": {
 - "axios": "^0.19.2",
 - "filesize": "^6.1.0",
 - "history": "^4.10.1",
