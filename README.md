@@ -55,7 +55,7 @@ With this application the user is able to:<br/>
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 In order to get a copy of this project an run on your local machine for development and testing purposes you will need to clone the project, run the "yarn" command on your terminal to install all the dependencies and execute the command "yarn start".
-It is also important to mention that this project requires a running database to get the data, for more information on the backend of this project check this repository: (BACKEND LINK)
+It is also important to mention that this project requires a running database to get the data, for more information on the backend of this project check <a href="https://github.com/devfel/goFinance-backend" rel="noopener">this repository.</a>
 
 ---
 
