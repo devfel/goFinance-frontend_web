@@ -24,7 +24,7 @@ Now, along with the use of TypeScript, routes, and sending files, the applicatio
  <img  width="600px" src="./src/assets/gofinance-frontend.gif" alt="GoFinance"></a>
 </p>
 
-## <br/>
+---
 
 ## 📝 Table of Contents
 
@@ -35,7 +35,7 @@ Now, along with the use of TypeScript, routes, and sending files, the applicatio
 - [Author](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## <br/>
+---
 
 ## 🧐 Application features <a name = "about"></a>
 
@@ -50,14 +50,14 @@ With this application the user is able to:<br/>
 1. list the transactions <br/>
 1. upload a file
 
-## <br/>
+---
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 In order to get a copy of this project an run on your local machine for development and testing purposes you will need to clone the project, run the "yarn" command on your terminal to install all the dependencies and execute the command "yarn start".
 It is also important to mention that this project requires a running database to get the data, for more information on the backend of this project check this repository: (BACKEND LINK)
 
-## <br/>
+---
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -70,7 +70,7 @@ It is also important to mention that this project requires a running database to
 - [Docker](https://www.docker.com/) - Docker Container
 - [Typescript](https://www.typescriptlang.org/) - Programming Language
 
-## <br/>
+---
 
 ## 🔁 Dependencies <a name = "dependencies"></a>
 
@@ -85,13 +85,13 @@ Some project library dependencies includes but are not limited to:
 - "styled-components": "^5.1.0",
 - "typescript": "~3.7.2"
 
-## <br/>
+---
 
 ## ✍️ Author <a name = "authors"></a>
 
 - [@devfel](https://github.com/devfel) - Luiz Flávio Felizardo
 
-## <br/>
+---
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
