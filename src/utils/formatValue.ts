@@ -1,8 +1,8 @@
 // Format the values to show as the appropriated currency
 const formatValue = (value: number): string =>
-  Intl.NumberFormat('pt-BR', {
+  Intl.NumberFormat('fr-CA', {
     style: 'currency',
-    currency: 'BRL',
+    currency: 'CAD',
   }).format(value);
 
 export default formatValue;
