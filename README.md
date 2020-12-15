@@ -61,14 +61,10 @@ It is also important to mention that this project requires a running database to
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [PostgreSQL](https://www.postgresql.org/) - Database
-- [Express](https://expressjs.com/) - Server Framework
 - [ReactJS](https://reactjs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-- [Insomnia](https://insomnia.rest/) - Rest Client
-- [DBeaver](https://dbeaver.io/) - DB administration tool
-- [Docker](https://www.docker.com/) - Docker Container
 - [Typescript](https://www.typescriptlang.org/) - Programming Language
+- [HTML](https://pt.wikipedia.org/wiki/HTML) - Markup Language
+- [CSS](https://en.wikipedia.org/wiki/CSS) - Style Sheets
 
 ---
 
